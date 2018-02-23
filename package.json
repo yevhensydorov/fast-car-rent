@@ -1,0 +1,31 @@
+{
+  "name": "fast-car-rent",
+  "version": "1.0.0",
+  "description": "rental car service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yevhensydorov/fast-car-rent.git"
+  },
+  "keywords": [
+    "express",
+    "postgres",
+    "app"
+  ],
+  "author": "Eugene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yevhensydorov/fast-car-rent/issues"
+  },
+  "homepage": "https://github.com/yevhensydorov/fast-car-rent#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "hbs": "^4.0.1",
+    "pg-promise": "^7.5.4"
+  }
+}

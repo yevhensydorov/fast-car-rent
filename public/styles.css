@@ -1,0 +1,25 @@
+.container {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.header-wrap {
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	justify-content: space-between;
+}
+
+.logo {
+	width: 15%;
+}
+
+.nav-menu {
+	width: 20%;
+}
+
+.nav-menu .navbar {
+	list-style-type: none;
+} 
